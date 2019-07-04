@@ -1,0 +1,29 @@
+.display {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  grid-column: span 4;
+  font-size: 2rem;
+  border: 1px solid #b3b3b3;
+  border-radius: var(--border-radius) var(--border-radius) 0 0;
+  background-color: #f5f5f5;
+  padding: 10px;
+}
+
+.display-label-enter {
+  opacity: 0;
+}
+
+.display-label-enter-active {
+  opacity: 1;
+  transition: opacity 200ms;
+}
+
+.display-label-exit {
+  opacity: 1;
+}
+
+.display-label-exit-active {
+  opacity: 0;
+  transition: opacity 200ms;
+}
