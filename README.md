@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Calculadora Web em React
+
+> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Essa aplicação foi baseada em uma atividade do curso [React + Redux: Fundamentos
+e Duas Apps do ABSOLUTO ZERO!](https://www.udemy.com/react-redux-pt), porém
+feito de forma diferente e com algumas otimizações.
 
 ## Available Scripts
 
